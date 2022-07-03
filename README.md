@@ -14,7 +14,7 @@
         "soundtrack", "touhou", "amiga/trackers/16bit",
         "electronic", "Perturbator", "Carpenter Brut"
     ],
-    "about": "Coding glitched visuals with Sewerslvt music is something I really enjoy.",
+    "about": "Coding glitched visuals with breakcore music is something I really enjoy.",
     "youtube": " https://www.youtube.com/c/Alkapivo"
 }
 ```
