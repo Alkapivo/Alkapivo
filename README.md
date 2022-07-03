@@ -5,7 +5,6 @@
     "hobbies": [
         "downhill & freeride",
         "gamedev",
-        "listening to Sewerslvt",
         "coding weird stuff using weird progamming languages",
         "let's all love Lain"
     ],
