@@ -3,17 +3,18 @@
     "name": "Alkapivo",
     "age": "27",
     "hobbies": [
-        "downhill & freeride",
+        "downhill bike",
         "gamedev",
         "coding weird stuff using weird progamming languages",
         "let's all love Lain"
     ],
     "music": [
-        "glitchcore", "breakcore", 
-        "soundtrack", "touhou", "amiga/trackers/16bit",
+        "glitchcore", "breakcore", "dnb"
+        "soundtrack", "touhou", "amiga/trackers/16bit", "ambient"
         "electronic", "Perturbator", "Carpenter Brut"
     ],
     "about": "Coding glitched visuals with breakcore music is something I really enjoy.",
-    "youtube": " https://www.youtube.com/c/Alkapivo"
+    "youtube": "https://www.youtube.com/c/Alkapivo",
+    "github": "https://github.com/Alkapivo"
 }
 ```
