@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Alkapivo",
-  "age": "30",
+  "age": "31",
   "about": "I really enjoy coding glitch visuals and growing tomatoes.",
   "socials": {
     "YouTube": "https://www.youtube.com/c/Alkapivo",
@@ -15,19 +15,11 @@
     "GM CLI": "https://github.com/Alkapivo/gm-cli"
   },
   "work_experience": [
-    "Software Engineer", "Game Developer", "DevOps",
-    "Product Owner", "Release Manager"
-  ],
-  "interests": [
-    "Visual Art", "Glitch Art", "Pixel Art",
-    "Canvas Painting", "Acrylic Painting", "Pencil Sketch",
-    "Gamedev", "Level Design", "Narrative Design",
-    "Gameplay Programming", "Tools Programming", "Graphics Engineering",
-    "Česká Republika", "Agriculture", "Forest Explorer",
-    "Wild Camping", "Downhill Mountain Biking",
-    "DnB", "Liquid DnB", "Jungle", "Breakcore", "Ambient",
-    "Vocal", "Instrumental", "House", "Trance", "Electronic",
-    "J-Core", "Dark Synth", "Synthwave", "16-bit Amiga Trackers"
+    "Software Engineer",
+    "Game Developer",
+    "DevOps",
+    "Product Owner",
+    "Release Manager"
   ]
 }
 ```
